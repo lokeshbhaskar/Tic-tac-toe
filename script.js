@@ -37,6 +37,7 @@ boxes.forEach((box) => {
             turn0= true
         }
         count++;
+        console.log(count)
         box.disabled= true;// ek baar value daal dne k baad dubara se uspe click krne se value change na ho
         checkwinner();
 

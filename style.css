@@ -61,9 +61,3 @@ body {
 .hide{
     display: none;
 }
-.draw-msg{
-    color: white;
-    margin-top: 5px;
-    padding: 10px;
-    display: none;
-}
